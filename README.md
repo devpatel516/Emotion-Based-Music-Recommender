@@ -28,21 +28,18 @@ This project leverages **Hugging Face emotion analysis**, intelligent genre mapp
 
 ## 📦 Project Structure
 
-Emotion-Based-Music-Recommender/
-│
-├── app.py 
-├── extract.py 
-├── model.py 
-├── spotify_plus_youtube.csv 
-├── requirements.txt 
-├── .env 
-└── README.md 
+Emotion-Based-Music-Recommender
+    app.py 
+    extract.py 
+    model.py 
+    spotify_plus_youtube.csv 
+    requirements.txt 
+    .env 
+    README.md 
 ---
 
 💡 **Note:**  
 Add your Hugging Face API token in the `.env` file like this:
-
-
 
 ---
 
