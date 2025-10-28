@@ -38,8 +38,19 @@ Emotion-Based-Music-Recommender/
 ├── .env 
 └── README.md 
 ---
-Add your huggingface api token in .env file
 
-## Installation & Setup
+💡 **Note:**  
+Add your Hugging Face API token in the `.env` file like this:
+
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# 1️⃣ Install dependencies
 pip install -r requirements.txt
+
+# 2️⃣ Run the Streamlit app
 streamlit run app.py
