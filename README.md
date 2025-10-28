@@ -28,7 +28,7 @@ This project leverages **Hugging Face emotion analysis**, intelligent genre mapp
 
 ## 📦 Project Structure
 
-Emotion-Based-Music-Recommender
+Emotion-Based-Music-Recommender/
     app.py 
     extract.py 
     model.py 
